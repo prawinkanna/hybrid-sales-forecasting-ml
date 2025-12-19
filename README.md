@@ -1,3 +1,7 @@
+pip install -r requirements.txt
+python sales_forecasting_ml.py
+
+
 ## 📊 Model Comparison – Actual vs Predicted Sales
 
 ![Hybrid Sales Forecast Comparison](hybrid-sales-forecast-comparison.png)
