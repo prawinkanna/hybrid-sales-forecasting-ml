@@ -1,3 +1,22 @@
+## 📊 Model Comparison – Actual vs Predicted Sales
+
+![Hybrid Sales Forecast Comparison](hybrid-sales-forecast-comparison.png)
+
+**Description:**  
+This visualization compares actual weekly sales with predictions from a Prophet-like time series model, an XGBoost-like machine learning model, and a hybrid approach.  
+The hybrid model closely follows actual sales trends by combining seasonality, trend, and non-linear learning, demonstrating improved forecasting accuracy.
+
+## 🔮 Future Sales Forecast (52 Weeks)
+
+![52-Week Hybrid Forecast](hybrid-52-week-sales-forecast.png)
+
+**Description:**  
+This chart shows historical weekly sales along with a 52-week future forecast generated using a hybrid forecasting model.  
+The dashed vertical line marks the start of the forecast period.  
+By combining time-series trend and seasonality with machine learning predictions, the hybrid model produces stable and realistic future sales estimates.
+
+
+
 📊 Hybrid Sales Forecasting Using Time Series & Machine Learning
 🚀 Project Overview
 
