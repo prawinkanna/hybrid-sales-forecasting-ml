@@ -18,6 +18,15 @@ The hybrid model closely follows actual sales trends by combining seasonality, t
 This chart shows historical weekly sales along with a 52-week future forecast generated using a hybrid forecasting model.  
 The dashed vertical line marks the start of the forecast period.  
 By combining time-series trend and seasonality with machine learning predictions, the hybrid model produces stable and realistic future sales estimates.
+## 📊 Power BI Dashboard
+
+A Power BI dashboard was created to visualize and compare forecasting results
+from Prophet, XGBoost, and the Hybrid model.
+
+The dashboard highlights key evaluation metrics (RAE, RMSE, MAPE, Accuracy)
+and provides business insights for inventory planning and demand forecasting.
+
+![Dashboard Preview](hybrid-retail-sales-forecast-dashboard.png)
 
 
 
